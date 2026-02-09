@@ -16,7 +16,7 @@ Welcome to my data analytics portfolio.
 ## 📊 Projects
 
 ### 1. Superstore Sales Analysis | Power BI
-- •	Analyzed sales trends, customer segments, and regional performance using interactive dashboards. ![Dashboard](screenshots/Superstore pdf_page-0001.jpg)
+- •	Analyzed sales trends, customer segments, and regional performance using interactive dashboards.
 
 ### 2. Telecom Customer Churn Analysis | Machine Learning
 - Built and evaluated churn prediction models to identify key drivers and retention opportunities.
